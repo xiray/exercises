@@ -37,4 +37,4 @@ int str_to_int(string a) {
     x += a[i] - 48;
   }
   return x;
-}
+} 
