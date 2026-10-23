@@ -14,12 +14,3 @@ public:
       return true;
     }
 };
-
-int main() {
-  Solution sol;
-  cout << (sol.isPalindrome(121));
-  cout << (sol.isPalindrome(-121));
-  cout << (sol.isPalindrome(1221));
-  cout << (sol.isPalindrome(0));
-  
-}
